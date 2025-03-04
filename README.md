@@ -1,0 +1,1 @@
+So far, in this class, I have focused on learning various data processing techniques, like data normalization and finding data similarity. Currently, in lab 2, we are now transitioning to working more on processing words and extracting data from groups of words.
